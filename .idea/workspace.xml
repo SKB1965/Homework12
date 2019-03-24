@@ -27,8 +27,6 @@
       <change afterPath="$PROJECT_DIR$/../Homework11Final3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework11Final3/src/DeckRandomizer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework11Key/src/DeckRandomizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlackJackGame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework5/src/edu/dmacc/codedsm/hw5/Calculator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework6/src/package-info.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Homework7/src/edu/dmaccc/codedsm/Homework7/SumHundrend.java" afterDir="false" />
@@ -109,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -142,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553466447506" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553467221024" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
